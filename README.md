@@ -6,4 +6,4 @@
 
 [Ejercicio de Bases de datos] (https://github.com/AaronAlvz08/MineriaDatos003/blob/main/Ej1_BasesDatos_Equipo_7.pdf)
 
-[Ejercicios Basicos de Python]()
+[Ejercicios Basicos de Python](https://github.com/paolaim/mineria-datos/blob/gh-pages/Untitled0.ipynb)
