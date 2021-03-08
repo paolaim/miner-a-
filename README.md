@@ -10,7 +10,7 @@
 
 [Practica de limpieza de datos](https://github.com/paolaim/mineria-datos/blob/gh-pages/Ej_Limpieza_Equipo7.ipynb)
 
-[Primer Avance PIA] (https://github.com/paolaim/mineria-datos/blob/gh-pages/Avance_PIA_equipo07.ipynb)
+[Primer Avance PIA](https://github.com/paolaim/mineria-datos/blob/gh-pages/Avance_PIA_equipo07.ipynb)
 
 ## FASE II
 
