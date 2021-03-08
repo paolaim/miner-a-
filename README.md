@@ -14,4 +14,4 @@
 
 ## FASE II
 
-[Presentación](https://github.com/AaronAlvz08/MineriaDatos003/blob/main/Presentaci%C3%B3n_%C3%81rboles%20de%20desici%C3%B3n_Equipo7.pdf)
+[Presentación de técnicas](https://github.com/AaronAlvz08/MineriaDatos003/blob/main/Presentaci%C3%B3n_%C3%81rboles%20de%20desici%C3%B3n_Equipo7.pdf)
