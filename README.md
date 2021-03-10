@@ -15,3 +15,5 @@
 ## FASE II
 
 [Presentación de técnicas](https://github.com/AaronAlvz08/MineriaDatos003/blob/main/Presentaci%C3%B3n_%C3%81rboles%20de%20desici%C3%B3n_Equipo7.pdf)
+
+[Ejemplo de árboles de decisión](https://github.com/AaronAlvz08/MineriaDatos003/blob/main/EJEMPLO.ipynb)
