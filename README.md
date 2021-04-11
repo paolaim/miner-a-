@@ -22,4 +22,4 @@
 
 ## FASE III
 
-[Mapa mental II](https://github.com/paolaim/mineria-datos/blob/gh-pages/Black%20and%20Orange%20Sports%20Bubble%20Map%20Chart.gif)
+[Mapa mental II](https://github.com/paolaim/mineria-datos/blob/gh-pages/MAPA_MENTAL_PIM.pdf)
