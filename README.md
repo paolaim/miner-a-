@@ -19,3 +19,7 @@
 [Ejemplo de árboles de decisión](https://github.com/AaronAlvz08/MineriaDatos003/blob/main/EJEMPLO.ipynb)
 
 [Resultados Miniexamen](https://github.com/AaronAlvz08/MineriaDatos003/blob/main/%C3%81rboles%20de%20desici%C3%B3n%20resultados.pdf)
+
+##FASE III
+
+[Mapa mental II](https://github.com/paolaim/mineria-datos/blob/gh-pages/Black%20and%20Orange%20Sports%20Bubble%20Map%20Chart.gif)
