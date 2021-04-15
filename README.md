@@ -23,3 +23,5 @@
 ## FASE III
 
 [Mapa mental II](https://github.com/paolaim/mineria-datos/blob/gh-pages/MAPA_MENTAL_PIM.pdf)
+
+[Practica de Visualización](https://github.com/marissabelmar/Mineria_de_datos/blob/main/Visualizacion_Equipo7.ipynb)
