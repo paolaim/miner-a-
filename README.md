@@ -20,8 +20,8 @@
 
 [Resultados Miniexamen](https://github.com/AaronAlvz08/MineriaDatos003/blob/main/%C3%81rboles%20de%20desici%C3%B3n%20resultados.pdf)
 
-## FASE III
-
 [Mapa mental II](https://github.com/paolaim/mineria-datos/blob/gh-pages/MAPA_MENTAL_PIM.pdf)
 
 [Practica de Visualización](https://github.com/marissabelmar/Mineria_de_datos/blob/main/Visualizacion_Equipo7.ipynb)
+
+## FASE III
