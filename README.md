@@ -26,4 +26,6 @@
 
 [Avance del PIA](https://github.com/AaronAlvz08/MineriaDatos003/blob/main/AvancePIA_II_003_07.ipynb)
 
+[Corrección Avance PIA](https://github.com/paolaim/mineria-datos/blob/gh-pages/AvancePIA_II_003_07.ipynb)
+
 ## FASE III
