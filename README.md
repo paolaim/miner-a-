@@ -29,3 +29,5 @@
 [Corrección Avance PIA](https://github.com/paolaim/mineria-datos/blob/gh-pages/AvancePIA_II_003_07.ipynb)
 
 ## FASE III
+
+[Poster](https://github.com/paolaim/mineria-datos/blob/gh-pages/POSTER%20MINERIA%20(1).gif)
