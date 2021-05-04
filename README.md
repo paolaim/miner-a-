@@ -30,4 +30,4 @@
 
 ## FASE III
 
-[Poster](https://github.com/paolaim/mineria-datos/blob/gh-pages/POSTER_MINERIA_07.pdf)
+[Poster ](https://github.com/paolaim/mineria-datos/blob/gh-pages/POSTER_MINERIA_07.pdf)
